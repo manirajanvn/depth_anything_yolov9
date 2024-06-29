@@ -18,4 +18,4 @@ https://github.com/WongKinYiu/yolov9/blob/main/README.md
 
 python3 run_webcam.py --encoder <vits | vitb | vitl>  --classes 67 --grayscale
 
---classes 0, or --classes 0 2 3' # to detect only  given classes
+--classes 0, or --classes 0 2 3' # to detect only  given classes https://github.com/manirajanvn/depth_anything_yolov9/blob/main/data/coco.yaml
